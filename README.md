@@ -16,4 +16,4 @@
 - Or minuses
 + Or pluses
 
-theme: jekyll-theme-minimal.
+theme: jekyll-theme-minimal
