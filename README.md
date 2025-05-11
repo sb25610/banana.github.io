@@ -1,5 +1,3 @@
-# banana.github.io
-
 ##Projects
 
 ###Project 1
